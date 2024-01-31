@@ -15,6 +15,16 @@ public class Calculator {
     romanNumerals.put("VIII", 8);
     romanNumerals.put("IX", 9);
     romanNumerals.put("X", 10);
+    romanNumerals.put("XI", 11);
+    romanNumerals.put("XII", 12);
+    romanNumerals.put("XIII", 13);
+    romanNumerals.put("XIV", 14);
+    romanNumerals.put("XV", 15);
+    romanNumerals.put("XVI", 16);
+    romanNumerals.put("XVII", 17);
+    romanNumerals.put("XVIII", 18);
+    romanNumerals.put("XIX", 19);
+    romanNumerals.put("XX", 20);
   }
 
   public static String calc(String input) {
